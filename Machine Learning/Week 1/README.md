@@ -1,6 +1,6 @@
 # Week 1
 
-Welcome to the course! 
+Welcome to the BootCamp! 
 This week we talk about - 
 * Basic Python 
 * Data Visualisation using Matplotlib
